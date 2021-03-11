@@ -24,7 +24,7 @@ I'm an **Undergrad Student🎓 [@FIT](https://fit.ba/)** pursuing career in CS. 
   - 🔒 Security
   - 📂 Open Source
 
-- 🤔 I’m looking for help with Devops 
+- 🤔 I’m looking for help with Devops
 - 🏋️ I pick up heavy objects then put them down
 - 📚 I’m into books, all kind of categories
 - 💬 Ask me about music, anime or my dog 🐾
