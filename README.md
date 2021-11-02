@@ -8,15 +8,15 @@
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/cKJz12nhdxpjdlY4yg/giphy.gif" width="50"> 
-I'm an **Undergrad Student🎓 [@FIT](https://fit.ba/)** pursuing career in CS. I'm a **Tech Geek 💻 😃** passionate about learning and working with new tech. Currently in search for my calling so I try to study new technologies as much as I can. <br/><br/>
+I'm an **Undergrad Student🎓 [@FIT](https://fit.ba/)** pursuing career in Computer Engineering. I'm a **Tech Geek 💻 😃** passionate about learning and working with new tech. Currently in search for my calling so I try to study new technologies as much as I can. <br/><br/>
 
 
 
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working on REST API Project
-- 🌱 I’m currently learning C++ <img src="https://emojis.slackmojis.com/emojis/images/1523753262/3795/cpp.png?1523753262" width="30">
+- 🔭 I’m currently working on Ethereum Dapp
+- 🌱 I’m currently learning C#+ <img src="https://emojis.slackmojis.com/emojis/images/1523753262/3795/cpp.png?1523753262" width="30">
 <img width="490" height="270" src="https://media.giphy.com/media/Rkis28kMJd1aE/source.gif" align=right>
 
 - <img src="https://media.giphy.com/media/xUPGcfEAZhlZXCZrbi/giphy.gif" width="30">  I enjoy working on
@@ -24,7 +24,7 @@ I'm an **Undergrad Student🎓 [@FIT](https://fit.ba/)** pursuing career in CS. 
   - 🔒 Security
   - 📂 Open Source
 
-- 🤔 I’m looking for help with Devops
+- 🤔 I’m looking for help with Solidity && Web3.js
 - 🏋️ I pick up heavy objects then put them down
 - 📚 I’m into books, all kind of categories
 - 💬 Ask me about music, anime or my dog 🐾
