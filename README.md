@@ -8,7 +8,7 @@
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/cKJz12nhdxpjdlY4yg/giphy.gif" width="50"> 
-I'm an **Undergrad Student🎓 [@FIT](https://fit.ba/)** pursuing career in Computer Engineering. I'm a **Tech Geek 💻 😃** passionate about learning and working with new tech. Currently in search for my calling so I try to study new technologies as much as I can. <br/><br/>
+I'm an **Undergrad Student🎓 [@FIT](https://fit.ba/)** pursuing career in Software Engineering. I'm a **Tech Geek 💻 😃** passionate about learning and working with new tech. Currently in search for my calling so I try to study new technologies as much as I can. <br/><br/>
 
 
 
