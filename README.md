@@ -60,18 +60,7 @@ I'm an **Undergrad Student🎓 [@FIT](https://fit.ba/)** pursuing career in Soft
 ![Profile Views](https://komarev.com/ghpvc/?username=LastWhiteRabbit&color=blueviolet)
 
 
-<details>
-<summary> 💥 Working on </summary>
-<br>
-<p align="center">
-<a href="https://github.com/LastWhiteRabbit/Rest-API-Project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LastWhiteRabbit&repo=Rest-API-Project&show_owner=true" />
-</a>&ensp;
-<a href="hhttps://github.com/LastWhiteRabbit/Rest-API-Project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LastWhiteRabbit&repo=Rest-API-Project&show_owner=true" />
-</a>
-</p>
-</details>
+
 
 
 
