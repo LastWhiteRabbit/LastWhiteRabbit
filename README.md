@@ -15,20 +15,13 @@ I'm an **Undergrad Student🎓 [@FIT](https://fit.ba/)** pursuing career in Soft
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working on Ethereum Dapp
 - 🌱 I’m currently learning C# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="30">
-<img width="490" height="270" src="https://media.giphy.com/media/Rkis28kMJd1aE/source.gif" align=right>
 
-- <img src="https://media.giphy.com/media/xUPGcfEAZhlZXCZrbi/giphy.gif" width="30">  I enjoy working on
-  - 🐧 Linux
-  - 🔒 Security
-  - 📂 Open Source
 
 - 🤔 I’m looking for help with Solidity && Web3.js
 - 🏋️ I pick up heavy objects then put them down
 - 📚 I’m into books, all kind of categories
-- 💬 Ask me about music, anime or my dog 🐾
-- 📙 Check out my [Resume](https://github.com)
+- 📙 Check out my [Resume](https://lastwhiterabbit.github.io/)
 - 🎉 Fun-Fact: I ❤️ Chess ♟️ and bet you can't find anyone to beat me 😏 
 
 
