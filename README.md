@@ -21,7 +21,7 @@ I'm an **Undergrad Student🎓 [@FIT](https://fit.ba/)** pursuing career in Soft
 - 🤔 I’m looking for help with Solidity && Web3.js
 - 🏋️ I pick up heavy objects then put them down
 - 📚 I’m into books, all kind of categories
-- 📙 Check out my [Resume](https://lastwhiterabbit.github.io/)
+- 📙 Check out my [Page](https://lastwhiterabbit.github.io/)
 - 🎉 Fun-Fact: I ❤️ Chess ♟️ and bet you can't find anyone to beat me 😏 
 
 
