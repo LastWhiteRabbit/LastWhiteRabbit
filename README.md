@@ -8,7 +8,7 @@
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/cKJz12nhdxpjdlY4yg/giphy.gif" width="50"> 
-I'm **[@FIT](https://fit.ba/) Alumni🎓** working as a Software Engineering with focus on Back End and Cloud engineering. I'm a **Tech Geek 💻 😃** passionate about learning and working with new tech. Currently I'm working with Node.js and AWS. <br/><br/>
+I'm **[@FIT](https://fit.ba/) Alumni🎓** working as a Software Engineer with focus on Back End and Cloud engineering. I'm a **Tech Geek 💻 😃** passionate about learning and working with new tech. Currently I'm working with Node.js and AWS. <br/><br/>
 
 
 
