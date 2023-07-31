@@ -8,17 +8,17 @@
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/cKJz12nhdxpjdlY4yg/giphy.gif" width="50"> 
-I'm an **Undergrad Student🎓 [@FIT](https://fit.ba/)** pursuing career in Software Engineering. I'm a **Tech Geek 💻 😃** passionate about learning and working with new tech. Currently I'm trying to start my career as a back-end developer. <br/><br/>
+I'm **[@FIT](https://fit.ba/) Alumni🎓** working as a Software Engineering with focus on Back End and Cloud engineering. I'm a **Tech Geek 💻 😃** passionate about learning and working with new tech. Currently I'm working with Node.js and AWS. <br/><br/>
 
 
 
 
 ## ⚡️ A Few Quick Facts
 
-- 🌱 I’m currently learning C# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="30">
+- 🌱 I’m currently learning AWS
 
 
-- 🤔 I’m looking for help with Solidity && Web3.js
+- 🤔 I’m looking for help with Solidity && Web3
 - 🏋️ I pick up heavy objects then put them down
 - 📚 I’m into books, all kind of categories
 - 📙 Check out my [Page](https://lastwhiterabbit.github.io/)
@@ -30,7 +30,7 @@ I'm an **Undergrad Student🎓 [@FIT](https://fit.ba/)** pursuing career in Soft
   <summary>Some more stuff 😄</summary>
   
 ### 🖥️ My DevSetup
-<img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> 
 
 ### ⚙️ Some Tool and Tech I use
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
