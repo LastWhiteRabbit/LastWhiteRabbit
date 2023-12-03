@@ -8,7 +8,7 @@
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/cKJz12nhdxpjdlY4yg/giphy.gif" width="50"> 
-I'm **[@FIT](https://fit.ba/) Alumni🎓** working as a Software Engineer with focus on Back End and Cloud engineering. I'm a **Tech Geek 💻 😃** passionate about learning and working with new tech. Currently I'm working with Node.js and AWS. <br/><br/>
+I'm **[@FIT](https://fit.ba/) Alumni🎓** working as a Software Engineer with focus on Back End and Cloud engineering. I LOVE learning and working with new tech. Currently I'm working with Node.js and AWS. <br/><br/>
 
 
 
@@ -33,21 +33,24 @@ I'm **[@FIT](https://fit.ba/) Alumni🎓** working as a Software Engineer with f
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> 
 
 ### ⚙️ Some Tool and Tech I use
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
-<code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>  
+<code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CS.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/DotNet.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TypeScript.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/AWS-Dark.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Linux-Dark.svg"></code>
+
+### ⚙️ Tool and Tech I would like to improve/work with
+<code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Bash-Dark.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/DENO-Dark.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NeoVim-Dark.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NestJS-Dark.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Supabase-Dark.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Scala-Dark.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Svelte.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VueJS-Dark.svg"></code>
 </details>
 
-
-### 🚀 Quick Stats
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=LastWhiteRabbit&show_icons=true&line_height=21" alt="LastWhiteRabbit's Github Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LastWhiteRabbit&theme=default&line_height=27&layout=compact" />
-</p>
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LastWhiteRabbit&color=blueviolet)
